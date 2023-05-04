@@ -34,7 +34,7 @@ Here, I used a Logistic Regression model to predict the number of handwritten di
 Finally, I used a Logistic Regression model to predict the quality of red wine on a scale from 1 to 10, using data such as fixed acidity and volatile acidity of the wine.
 
 # Conclusion
-These projects have provided me with a solid foundation in Machine Learning and data analysis. I am continuously seeking opportunities to learn and grow in this field, and I am excited about the prospect of contributing to a team that shares my passion for data science. Thank you for taking the time to review my work, and I look forward to hearing from you soon.
+These are some of the projects I have worked with, that have provided me with a solid foundation in Machine Learning and data analysis. I am continuously seeking opportunities to learn and grow in this field, and I am excited about the prospect of contributing to a team that shares my passion for data science. Thank you for taking the time to review my work, and I look forward to hearing from you soon.
 
 
 
